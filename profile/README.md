@@ -1,18 +1,24 @@
-# 🎓 IUH nvminh162 Organization
+# 🎓 
 
 <div align="center">
+  <img src="https://avatars.githubusercontent.com/u/121565657?v=4" alt="nvminh162" width="200"/>
   
-[![Organization](https://img.shields.io/badge/Organization-IUH%20nvminh162-blue?style=for-the-badge)](https://github.com/iuh-nvminh162-org)
-[![University](https://img.shields.io/badge/University-IUH-green?style=for-the-badge)](https://www.iuh.edu.vn/)
-[![Student](https://img.shields.io/badge/Student-nvminh162-orange?style=for-the-badge)](https://github.com/nvminh162)
-
+  # Nguyen Van Minh
+  
+  ### Industrial University of Ho Chi Minh City Organization
+  
+  *Storage HUB*
+  
+  [![Organization](https://img.shields.io/badge/Organization-IUH%20nvminh162-blue?style=for-the-badge)](https://github.com/iuh-nvminh162-org)
+  [![University](https://img.shields.io/badge/University-IUH-green?style=for-the-badge)](https://www.iuh.edu.vn/)
+  [![Student](https://img.shields.io/badge/Student-nvminh162-orange?style=for-the-badge)](https://github.com/nvminh162)
 </div>
 
 ---
 
 ## 📖 Introduction
 
-Welcome to **IUH nvminh162 org** - An organization that stores projects and coursework during my studies at **Industrial University of Ho Chi Minh City (IUH)**.
+Welcome to **IUH nvminh162 Organization** - An organization that stores projects and coursework during my studies at **Industrial University of Ho Chi Minh City (IUH)**.
 
 This organization was created to:
 - 📚 Store and manage source code for university courses
@@ -58,6 +64,9 @@ This organization was created to:
 ## 👨‍🎓 Student Information
 
 - **Name:** Nguyen Van Minh
+- **ID:** 22003405
+- **Department:** Faculty of Information Technology
+- **Major:**Software Engineering
 - **GitHub:** [@nvminh162](https://github.com/nvminh162)
 - **Organization:** [@iuh-nvminh162-org](https://github.com/iuh-nvminh162-org)
 - **University:** Industrial University of Ho Chi Minh City (IUH)
