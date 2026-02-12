@@ -14,6 +14,20 @@
 
 ---
 
+## 👨‍🎓 Student Information
+
+- **ID:** 22003405
+- **Name:** Nguyen Van Minh
+- **Graduated:** Honors
+- **GPA:** 3.2+
+- **Department:** Faculty of Information Technology
+- **Major:** Software Engineering
+- **GitHub:** [@nvminh162](https://github.com/nvminh162)
+- **Organization:** [@iuh-nvminh162-org](https://github.com/iuh-nvminh162-org)
+- **University:** Industrial University of Ho Chi Minh City (IUH)
+
+---
+
 ## 📖 Introduction
 
 Welcome to **IUH nvminh162 Organization** - An organization that stores projects and coursework during my studies at **Industrial University of Ho Chi Minh City (IUH)**.
@@ -39,18 +53,6 @@ This organization was created to:
 | 7 | [iuh-emerging-technologies-it-app-development](https://github.com/iuh-nvminh162-org/iuh-emerging-technologies-it-app-development) | Emerging Technologies in IT Application Development | - |
 | 8 | [iuh-software-project-management](https://github.com/iuh-nvminh162-org/iuh-software-project-management) | Software Project Management | - |
 | 9 | [.github](https://github.com/iuh-nvminh162-org/.github) | Github organizations profile README | - |
-
----
-
-## 👨‍🎓 Student Information
-
-- **Name:** Nguyen Van Minh
-- **ID:** 22003405
-- **Department:** Faculty of Information Technology
-- **Major:**Software Engineering
-- **GitHub:** [@nvminh162](https://github.com/nvminh162)
-- **Organization:** [@iuh-nvminh162-org](https://github.com/iuh-nvminh162-org)
-- **University:** Industrial University of Ho Chi Minh City (IUH)
 
 ---
 
