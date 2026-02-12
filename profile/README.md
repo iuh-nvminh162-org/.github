@@ -1,100 +1,104 @@
+# 🎓 IUH nvminh162 org
+
 <div align="center">
-
-# 👋 Welcome to Our Organization
-
-[![GitHub followers](https://img.shields.io/github/followers/nvminh162?style=social)](https://github.com/nvminh162)
-[![GitHub stars](https://img.shields.io/github/stars/nvminh162?style=social)](https://github.com/nvminh162)
-
-**Building innovative web solutions and contributing to the open-source community**
-
-[Explore Projects](#-our-projects) • [Get Involved](#-get-involved) • [Connect](#-connect-with-us)
+  
+[![Organization](https://img.shields.io/badge/Organization-IUH%20nvminh162-blue?style=for-the-badge)](https://github.com/iuh-nvminh162-org)
+[![University](https://img.shields.io/badge/University-IUH-green?style=for-the-badge)](https://www.iuh.edu.vn/)
+[![Student](https://img.shields.io/badge/Student-nvminh162-orange?style=for-the-badge)](https://github.com/nvminh162)
 
 </div>
 
 ---
 
-## 🎯 About Us
+## 📖 Giới thiệu
 
-We are a community-driven organization passionate about **Web Development** and **Open Source**. Our mission is to create high-quality, accessible tools and libraries that empower developers worldwide to build better web applications.
+Chào mừng đến với **IUH nvminh162 org** - Organization lưu trữ các dự án và bài tập môn học trong quá trình học tập tại **Trường Đại học Công nghiệp Thành phố Hồ Chí Minh (IUH)**.
 
-### Our Vision
-
-- 🌟 **Innovation**: Push the boundaries of web technologies
-- 🤝 **Collaboration**: Foster a welcoming community for developers of all skill levels
-- 📚 **Education**: Share knowledge through well-documented, maintainable code
-- 🌍 **Impact**: Build solutions that make a difference
-
----
-
-## 🚀 Our Projects
-
-We maintain a diverse portfolio of web development projects, ranging from utility libraries to full-stack applications. Each project is built with:
-
-- ✅ Clean, maintainable code
-- 📖 Comprehensive documentation
-- 🧪 Thorough testing
-- 🔄 Regular updates and maintenance
-
-> **Coming Soon**: Featured projects will be listed here as they become public!
+Organization này được tạo ra nhằm mục đích:
+- 📚 Lưu trữ và quản lý source code các môn học
+- 🔄 Chia sẻ kiến thức với cộng đồng sinh viên
+- 💻 Thực hành và phát triển kỹ năng lập trình
+- 🌟 Xây dựng portfolio cá nhân
 
 ---
 
-## 💻 Tech Stack
+## 📚 Danh sách Repositories
 
-Our projects primarily utilize modern web technologies:
+### 🔥 Active Repositories
 
-**Frontend**
-- React, Vue.js, Angular
-- TypeScript, JavaScript (ES6+)
-- HTML5, CSS3, Tailwind CSS
+| # | Repository | Mô tả | Ngôn ngữ | Stars | Topics |
+|---|------------|-------|----------|-------|--------|
+| 1 | [iuh-emerging-technologies-it-app-development](https://github.com/iuh-nvminh162-org/iuh-emerging-technologies-it-app-development) | Emerging Technologies in IT Application Development | - | ⭐ 2 | `aws`, `deploy`, `ec2`, `iam`, `iuh`, `nvminh162`, `s3` |
+| 2 | [iuh-software-project-management](https://github.com/iuh-nvminh162-org/iuh-software-project-management) | Software Project Management | - | ⭐ 0 | `iuh`, `microsoft-project`, `nvminh162`, `project-management`, `skills` |
+| 3 | [iuh-phan-tich-thiet-ke-he-thong](https://github.com/iuh-nvminh162-org/iuh-phan-tich-thiet-ke-he-thong) | Phân tích thiết kế hệ thống | - | ⭐ 0 | - |
+| 4 | [iuh-nhap-mon-an-toan-thong-tin](https://github.com/iuh-nvminh162-org/iuh-nhap-mon-an-toan-thong-tin) | Nhập môn an toàn thông tin | - | ⭐ 0 | - |
+| 5 | [.github](https://github.com/iuh-nvminh162-org/.github) | Github organizations profile README | - | ⭐ 0 | `iuh`, `nguyenvanminh`, `nvminh162` |
 
-**Backend**
-- Node.js, Express
-- Python, Django/Flask
-- RESTful APIs, GraphQL
+### 📦 Archived Repositories
 
-**Tools & DevOps**
-- Git & GitHub Actions
-- Docker, CI/CD
-- Testing frameworks (Jest, Cypress, Vitest)
-
----
-
-## 🤝 Get Involved
-
-We welcome contributions from developers of all experience levels! Here's how you can participate:
-
-### Contributing
-
-1. **Browse** our repositories and find a project that interests you
-2. **Read** the CONTRIBUTING.md guide in each repository
-3. **Fork** the repository and create your feature branch
-4. **Submit** a pull request with your improvements
-
-### Code of Conduct
-
-We are committed to providing a welcoming and inclusive environment. Please read our [Code of Conduct](CODE_OF_CONDUCT.md) before participating.
+| # | Repository | Mô tả | Ngôn ngữ | Stars | Topics |
+|---|------------|-------|----------|-------|--------|
+| 1 | [iuh-distributed-programming-java](https://github.com/iuh-nvminh162-org/iuh-distributed-programming-java) | Distributed programming with java technology | Java | ⭐ 2 | `hibernate`, `java`, `json-api`, `multithreading`, `neo4j`, `rmi` |
+| 2 | [iuh-mobile-application-programming](https://github.com/iuh-nvminh162-org/iuh-mobile-application-programming) | Mobile Application Programming | TypeScript | ⭐ 3 | `expo`, `iuh`, `nvminh162`, `react-native` |
+| 3 | [iuh-www-programming](https://github.com/iuh-nvminh162-org/iuh-www-programming) | Advanced Web Programming/ WWW Programming (Java) | Java | ⭐ 3 | `iuh`, `jsp`, `nvminh162`, `servlet`, `spring` |
+| 4 | [iuh-quality-assurance-and-software-testing](https://github.com/iuh-nvminh162-org/iuh-quality-assurance-and-software-testing) | Quality assurance and software testing | C# | ⭐ 3 | `blackbox-testing`, `csharp`, `iuh`, `nvminh162`, `whitebox-testing` |
 
 ---
 
-## 📫 Connect With Us
+## 🛠️ Công nghệ sử dụng
 
-- **GitHub**: [@nvminh162](https://github.com/nvminh162)
-- **Issues**: Found a bug? [Open an issue](../../issues)
-- **Discussions**: Have ideas? Join our [discussions](../../discussions)
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+
+</div>
 
 ---
 
-## 📄 License
+## 📊 Thống kê
 
-Unless otherwise specified, projects in this organization are licensed under the **MIT License**. See individual repository LICENSE files for details.
+- **Tổng số repositories:** 9
+- **Repositories đang hoạt động:** 5
+- **Repositories đã lưu trữ:** 4
+- **Ngôn ngữ lập trình:** Java, TypeScript, C#
+- **Tổng số stars:** 13 ⭐
+
+---
+
+## 👨‍🎓 Thông tin sinh viên
+
+- **Tên:** Nguyễn Văn Minh
+- **GitHub:** [@nvminh162](https://github.com/nvminh162)
+- **Organization:** [@iuh-nvminh162-org](https://github.com/iuh-nvminh162-org)
+- **Trường:** Đại học Công nghiệp TP.HCM (IUH)
+
+---
+
+## 📝 Lưu ý
+
+- Các repositories trong organization này phục vụ mục đích học tập
+- Code có thể được cập nhật và cải thiện theo thời gian
+- Vui lòng tham khảo và sử dụng với mục đích học tập
+
+---
+
+## 📬 Liên hệ
+
+Nếu bạn có bất kỳ câu hỏi hoặc đề xuất nào, vui lòng tạo issue hoặc liên hệ qua GitHub profile.
 
 ---
 
 <div align="center">
 
-**Made with ❤️ by the open-source community**
+**⭐ Nếu bạn thấy các repositories hữu ích, đừng quên cho một star nhé! ⭐**
 
-⭐ Star our repositories if you find them useful!
+Made with ❤️ by [nvminh162](https://github.com/nvminh162)
 
 </div>
