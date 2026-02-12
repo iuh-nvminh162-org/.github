@@ -24,24 +24,17 @@ Organization này được tạo ra nhằm mục đích:
 
 ## 📚 Danh sách Repositories
 
-### 🔥 Active Repositories
-
-| # | Repository | Mô tả | Ngôn ngữ | Stars | Topics |
-|---|------------|-------|----------|-------|--------|
-| 1 | [iuh-emerging-technologies-it-app-development](https://github.com/iuh-nvminh162-org/iuh-emerging-technologies-it-app-development) | Emerging Technologies in IT Application Development | - | ⭐ 2 | `aws`, `deploy`, `ec2`, `iam`, `iuh`, `nvminh162`, `s3` |
-| 2 | [iuh-software-project-management](https://github.com/iuh-nvminh162-org/iuh-software-project-management) | Software Project Management | - | ⭐ 0 | `iuh`, `microsoft-project`, `nvminh162`, `project-management`, `skills` |
-| 3 | [iuh-phan-tich-thiet-ke-he-thong](https://github.com/iuh-nvminh162-org/iuh-phan-tich-thiet-ke-he-thong) | Phân tích thiết kế hệ thống | - | ⭐ 0 | - |
-| 4 | [iuh-nhap-mon-an-toan-thong-tin](https://github.com/iuh-nvminh162-org/iuh-nhap-mon-an-toan-thong-tin) | Nhập môn an toàn thông tin | - | ⭐ 0 | - |
-| 5 | [.github](https://github.com/iuh-nvminh162-org/.github) | Github organizations profile README | - | ⭐ 0 | `iuh`, `nguyenvanminh`, `nvminh162` |
-
-### 📦 Archived Repositories
-
-| # | Repository | Mô tả | Ngôn ngữ | Stars | Topics |
-|---|------------|-------|----------|-------|--------|
-| 1 | [iuh-distributed-programming-java](https://github.com/iuh-nvminh162-org/iuh-distributed-programming-java) | Distributed programming with java technology | Java | ⭐ 2 | `hibernate`, `java`, `json-api`, `multithreading`, `neo4j`, `rmi` |
-| 2 | [iuh-mobile-application-programming](https://github.com/iuh-nvminh162-org/iuh-mobile-application-programming) | Mobile Application Programming | TypeScript | ⭐ 3 | `expo`, `iuh`, `nvminh162`, `react-native` |
-| 3 | [iuh-www-programming](https://github.com/iuh-nvminh162-org/iuh-www-programming) | Advanced Web Programming/ WWW Programming (Java) | Java | ⭐ 3 | `iuh`, `jsp`, `nvminh162`, `servlet`, `spring` |
-| 4 | [iuh-quality-assurance-and-software-testing](https://github.com/iuh-nvminh162-org/iuh-quality-assurance-and-software-testing) | Quality assurance and software testing | C# | ⭐ 3 | `blackbox-testing`, `csharp`, `iuh`, `nvminh162`, `whitebox-testing` |
+| # | Repository | Mô tả | Ngôn ngữ |
+|---|------------|-------|----------|
+| 1 | [iuh-distributed-programming-java](https://github.com/iuh-nvminh162-org/iuh-distributed-programming-java) | Distributed programming with java technology | Java |
+| 2 | [iuh-mobile-application-programming](https://github.com/iuh-nvminh162-org/iuh-mobile-application-programming) | Mobile Application Programming | TypeScript |
+| 3 | [iuh-www-programming](https://github.com/iuh-nvminh162-org/iuh-www-programming) | Advanced Web Programming/ WWW Programming (Java) | Java |
+| 4 | [iuh-quality-assurance-and-software-testing](https://github.com/iuh-nvminh162-org/iuh-quality-assurance-and-software-testing) | Quality assurance and software testing | C# |
+| 5 | [iuh-phan-tich-thiet-ke-he-thong](https://github.com/iuh-nvminh162-org/iuh-phan-tich-thiet-ke-he-thong) | Phân tích thiết kế hệ thống | - |
+| 6 | [iuh-nhap-mon-an-toan-thong-tin](https://github.com/iuh-nvminh162-org/iuh-nhap-mon-an-toan-thong-tin) | Nhập môn an toàn thông tin | - |
+| 7 | [iuh-emerging-technologies-it-app-development](https://github.com/iuh-nvminh162-org/iuh-emerging-technologies-it-app-development) | Emerging Technologies in IT Application Development | - |
+| 8 | [iuh-software-project-management](https://github.com/iuh-nvminh162-org/iuh-software-project-management) | Software Project Management | - |
+| 9 | [.github](https://github.com/iuh-nvminh162-org/.github) | Github organizations profile README | - |
 
 ---
 
@@ -65,8 +58,6 @@ Organization này được tạo ra nhằm mục đích:
 ## 📊 Thống kê
 
 - **Tổng số repositories:** 9
-- **Repositories đang hoạt động:** 5
-- **Repositories đã lưu trữ:** 4
 - **Ngôn ngữ lập trình:** Java, TypeScript, C#
 - **Tổng số stars:** 13 ⭐
 
